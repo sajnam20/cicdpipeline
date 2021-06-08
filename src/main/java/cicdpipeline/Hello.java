@@ -12,7 +12,7 @@ public class Hello {
 		
 		System.out.println("Marcus");
 		
-		String name = "marcus";
+		int name = "marcus";
 		
 	}
 
