@@ -17,7 +17,7 @@ public class Hello {
 
 		String name10 = "marcus 4";
 		String name9 = "sharmila";
-		int num = 1;
+		int num = 2;
 		
 		
 	}
