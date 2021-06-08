@@ -14,6 +14,8 @@ public class Hello {
 		
 		String name = "marcus";
 		
+		String name2 = "mannmeet";
+		
 	}
 
 }
