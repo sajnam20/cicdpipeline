@@ -14,7 +14,7 @@ public class Hello {
 		
 		String name = "marcus";
 		
-		String name5 = "marcus 5";
+		String name2 = "marcus 4";
 		
 		
 	}
