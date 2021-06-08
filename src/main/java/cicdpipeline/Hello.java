@@ -13,7 +13,7 @@ public class Hello {
 		System.out.println("Marcus");
 		
 		String name = "marcus";
-		String team = "fyp";
+
 		
 	}
 
