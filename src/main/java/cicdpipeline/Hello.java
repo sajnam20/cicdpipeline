@@ -15,9 +15,9 @@ public class Hello {
 		String name = "marcus";
 		
 
-		String name10 = "marcus 4";
-		String name9 = "sharmila";
-		int num = 1;
+		String name15 = "marcus 5";
+		String name20 = "sharmila1";
+		int num = 1001;
 		
 		
 	}
