@@ -14,9 +14,10 @@ public class Hello {
 		
 		String name = "marcus";
 		
-		String name6 = "marcus 4";
-		String nameFaci = "sharmila";
-		String evalFaci = "nicholas";
+
+		String name10 = "marcus 4";
+		String name9 = "sharmila";
+
 		
 		
 	}
